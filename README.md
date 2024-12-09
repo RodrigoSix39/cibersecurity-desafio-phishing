@@ -29,7 +29,7 @@
 ![setoolkit_result](https://github.com/user-attachments/assets/d4a7c7b3-0b31-41fa-8595-51c8b1dcfe78)
 
 ### Alternativa
-Aparentemente este metodo não funciona mais para o facebook. Como alternativa criei um servidor node js usando express e nodemailler e fiz pequnas alterações em um clone existente do facebook para receber no servidor o email e senha digitados e redirecionar o usuário para a pagina real do facebook. O servidor então envia através do nodemailler o que foi digitado nos campos de email e password para meu email.
+Aparentemente este metodo não está funcionando para o facebook. Como alternativa criei um servidor node js usando express e nodemailler e fiz pequnas alterações em um clone existente do facebook para receber no servidor o email e senha digitados e redirecionar o usuário para a pagina real do facebook. O servidor então envia através do nodemailler o que foi digitado nos campos de email e password para meu email.
 
 -Rodando o servidor local
 ![server_running_localhost](https://github.com/user-attachments/assets/9da6ce63-a277-4d86-9148-e0f49ea4d532)
